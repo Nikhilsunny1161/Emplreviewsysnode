@@ -1,0 +1,24 @@
+.footerBackground {
+  background-color: #d4aac2 !important;
+  background-image: linear-gradient(225deg, #a3c8eb 0%, #d9d2e0 50%, #cce3f3 100%) !important;
+}
+.footerBackground div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footerBackground div .name {
+  margin-left: 5px;
+  margin-top: 4px !important;
+  color: rgb(18, 110, 6);
+}
+.footerBackground div a {
+  margin: 0px !important;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+/*# sourceMappingURL=footer.css.map */

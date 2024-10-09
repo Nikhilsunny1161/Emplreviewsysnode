@@ -1,0 +1,23 @@
+.headerBackground {
+  background-color: #d4aac2 !important;
+  background-image: linear-gradient(225deg, #a3c8eb 0%, #d9d2e0 50%, #cce3f3 100%) !important;
+}
+.headerBackground a {
+  color: white;
+}
+.headerBackground form .btncustom {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.headerBackground form a {
+  background-color: rgba(80, 219, 208, 0.568);
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+/*# sourceMappingURL=header.css.map */
